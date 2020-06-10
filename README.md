@@ -30,7 +30,7 @@
     - Raspberry Pi, Jetson, Coral Dev Board
     - Theta V
 
-## 発表/特許（大昔のは割愛）
+## 発表/特許
 
 - 学会発表
   - K. Fujimoto, T. Moriya, Y. Nakayama: Map-link method for efficient path planning of car-like vehicle, In Journal of robotics society of japan (in Japanese), Vol.33, No. 8, pp. 630-641, 2015.
@@ -44,7 +44,9 @@
   - 平成26年度関東地方発明表彰
 - 執筆
   - 稼ぐビッグデータ・IoT技術 徹底解説
-  
+
+※大昔のは割愛
+
 ## 作ったもの/記事
 
 - 画像認識、レコメンデーション
