@@ -30,9 +30,9 @@
     - Raspberry Pi, Jetson, Coral Dev Board
     - Theta V
 
-## 発表/特許
+## 発表/特許（大昔のは割愛）
 
-- 学会発表（古い）
+- 学会発表
   - K. Fujimoto, T. Moriya, Y. Nakayama: Map-link method for efficient path planning of car-like vehicle, In Journal of robotics society of japan (in Japanese), Vol.33, No. 8, pp. 630-641, 2015.
   - H. Sagawa, N. Akira, N. Kimura, T. Kurihara, M. Seki, T. Takeuchi, K. Fujimoto, Development of a Remote Work Support System Using Augmented Reality, IEICE Trans. on Information and Systems (Japanese Edition) Vol.J98-D, No.1, pp.258-268, 2015.
   - K. Fujimoto, T. Watanabe : 3D Reconstruction of Outdoor Scenes Using Structure from Motion and Depth Data, In proc. of WSCG, 2015.
@@ -89,14 +89,14 @@
 ## 経歴
 
 - ABEJA (2016/12-)
-- Hitachi. Ltd. 基礎研究所/中央研究所 (2010/04-2016/12)
-- Hitachi. Ltd. 基礎研究所 (part-time researcher) (2004/08-2010/03)
+- 日立製作所 基礎研究所/中央研究所 (2010/04-2016/12)
+- 日立製作所 基礎研究所 (part-time researcher) (2004/08-2010/03)
 
-## 教育
+## 学歴
 
-- 2010年 電気通信大学大学院博士後期課程修了
-- 2007年 電気通信大学大学院博士前期課程修了
-- 2005年 電気通信大学卒業
+- 2010年 電気通信大学大学院 電気通信学研究科 情報工学専攻 博士後期課程修了
+- 2007年 電気通信大学大学院 電気通信学研究科 情報工学専攻 博士前期課程修了
+- 2005年 電気通信大学電気通信学部情報工学科卒業
 
 ## その他
 
@@ -115,8 +115,6 @@
   - Sugarbeans 「メロンを食べる男」「いつだってそこには風（販売終了）」[link](
 https://itunes.apple.com/jp/album/%E3%83%A1%E3%83%AD%E3%83%B3%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E7%94%B7/id1160800079)
   - Honey Trap Project　「Honey Trap Project（自主制作、販売終了）」
-  - 山野ビッグバンドジャズコンテスト 第38回大会  [link](https://www.amazon.co.jp/%E7%AC%AC38%E5%9B%9E-%E5%B1%B1%E9%87%8E%E3%83%93%E3%83%83%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-Various-Artists/dp/B007CXXB86)
-  - 世田谷学園アンサンブル [link](https://www.amazon.co.jp/%E4%B8%96%E7%94%B0%E8%B0%B7%E5%AD%A6%E5%9C%92%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E4%B8%96%E7%94%B0%E8%B0%B7%E5%AD%A6%E5%9C%92%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%90%B9%E5%A5%8F%E6%A5%BD%E9%83%A8-%E4%B8%96%E7%94%B0%E8%B0%B7%E5%AD%A6%E5%9C%92%E4%B8%AD%E5%AD%A6%E6%A0%A1%E5%90%B9%E5%A5%8F%E6%A5%BD%E9%83%A8/dp/B00005TQCU)
 - 食べ物
   - 天下一品
   - カレー
