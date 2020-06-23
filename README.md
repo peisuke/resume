@@ -36,16 +36,16 @@
   - K. Fujimoto, T. Moriya, Y. Nakayama: Map-link method for efficient path planning of car-like vehicle, In Journal of robotics society of japan (in Japanese), Vol.33, No. 8, pp. 630-641, 2015.
   - H. Sagawa, N. Akira, N. Kimura, T. Kurihara, M. Seki, T. Takeuchi, K. Fujimoto, Development of a Remote Work Support System Using Augmented Reality, IEICE Trans. on Information and Systems (Japanese Edition) Vol.J98-D, No.1, pp.258-268, 2015.
   - K. Fujimoto, T. Watanabe : 3D Reconstruction of Outdoor Scenes Using Structure from Motion and Depth Data, In proc. of WSCG, 2015.
+  - 他にも色々
 - 特許
   - 藤本 敬介，木村 宣隆，守屋 俊夫，藤 大樹：ロボットおよび自己位置推定方法，特開2015-215651
   - 藤本 敬介，木村 宣隆，守屋 俊夫：ロボットシステム及び地図更新方法，特開2015-144013
   - 藤本 敬介，塩入 喜敬，知原 信博：３次元形状計測システム、及び色情報貼付方法，特開2015-064755
+  - 他15件くらい
 - 受賞
   - 平成26年度関東地方発明表彰
 - 執筆
   - 稼ぐビッグデータ・IoT技術 徹底解説
-
-※大昔のは割愛
 
 ## 作ったもの/記事
 
