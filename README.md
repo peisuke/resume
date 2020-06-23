@@ -114,10 +114,9 @@
   - 祐日 「君へ」[link](https://www.amazon.co.jp/%E5%90%9B%E3%81%B8-%E7%A5%90%E6%97%A5/dp/B00VJR2L1E)
   - 木製の椅子 「Naked Blues」[link](https://itunes.apple.com/jp/album/naked-blues/id331262363)
   - Sowan song 「36」[link](https://www.amazon.co.jp/36-sowan-song/dp/B00196NN8A)
-  - Sugarbeans 「メロンを食べる男」「いつだってそこには風（販売終了）」[link](
-https://itunes.apple.com/jp/album/%E3%83%A1%E3%83%AD%E3%83%B3%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E7%94%B7/id1160800079)
+  - Sugarbeans 「メロンを食べる男」[link](https://www.amazon.co.jp/%E3%83%A1%E3%83%AD%E3%83%B3%E3%82%92%E9%A3%9F%E3%81%B9%E3%82%8B%E7%94%B7-Sugarbeans/dp/B0010JL2RU)
+  - Sugarbeans 「いつだってそこには風（販売終了）」
   - Honey Trap Project　「Honey Trap Project（自主制作、販売終了）」
-」
   - 山野ビッグバンドジャズコンテスト 第38回大会  [link](https://www.amazon.co.jp/%E7%AC%AC38%E5%9B%9E-%E5%B1%B1%E9%87%8E%E3%83%93%E3%83%83%E3%82%B0%E3%83%90%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B8%E3%83%A3%E3%82%BA%E3%83%BB%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88-Various-Artists/dp/B007CXXB86)
   - 世田谷学園アンサンブル [link](https://www.amazon.co.jp/%E4%B8%96%E7%94%B0%E8%B0%B7%E5%AD%A6%E5%9C%92%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB-%E4%B8%96%E7%94%B0%E8%B0%B7%E5%AD%A6%E5%9C%92%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E5%90%B9%E5%A5%8F%E6%A5%BD%E9%83%A8-%E4%B8%96%E7%94%B0%E8%B0%B7%E5%AD%A6%E5%9C%92%E4%B8%AD%E5%AD%A6%E6%A0%A1%E5%90%B9%E5%A5%8F%E6%A5%BD%E9%83%A8/dp/B00005TQCU)
 - 食べ物
