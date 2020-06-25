@@ -15,20 +15,26 @@
 
 - 研究開発
   - 画像認識
-  - レコメンデーション
   - 点群処理
-  - ロボット（ソフトウェア）
+  - ロボット（SLAM, 経路計画）
   - 音声合成←New!!
   - 機械学習
+  - レコメンデーション
 - エンジニアリング
   - フロント系
     - Vue.js, CSS, HTML
   - インフラ系
-    - AWS/GCP
+    - AWS, GCP
   - その他
-    - github, docker, CircleCI
+    - github, docker, CircleCI, firebase
     - Raspberry Pi, Jetson, Coral Dev Board
     - Theta V
+  - 言語
+    - C, C++, C#, Python, Javascript, Java, etc.
+- その他、サブのスキル
+  - Project Manager
+  - Sales補佐（出来ないとは言わずにポジティブに方策を練る）
+  - 飲み会で野菜を取り分ける
 
 ## 発表/特許
 
@@ -74,7 +80,7 @@
 - Vue.js/CSS/HTML
   - [VideoChatSample](https://github.com/peisuke/skyway-room-vue)
   - AI for Kids: [記事](https://torus.abejainc.com/n/nf44ff7c242fc)
-- AWS/GCP
+- AWS, GCP
   - [AWS EKSを使ってクラウド上で分散学習](https://qiita.com/peisuke/items/834cfa77717733d3ff45)
 - ネタ
   - リアルタイムバ美肉: [code](https://github.com/peisuke/babiniku), [video](https://www.youtube.com/watch?v=fXWbFtDknCo)
@@ -105,7 +111,7 @@
 - 学会の手伝い
   - 情報処理学会論文編集委員(2015-2018)、副査(2016-2017)
 - 特許
-  - 一般の技術者よりは詳しい
+  - 一般の技術者よりは詳しい（明細書・図面作成、戦略検討など）
 - Language
   - Japanese (native)
   - English (bussiness)
