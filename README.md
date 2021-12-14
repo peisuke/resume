@@ -28,13 +28,12 @@
   - その他
     - github, docker, CircleCI, firebase
     - Raspberry Pi, Jetson, Coral Dev Board
-    - Theta V
+    - Theta V, Solidity, Unity
   - 言語
     - C, C++, C#, Python, JavaScript, Java, etc.
 - その他、サブのスキル
   - Project Manager
-  - Sales補佐（出来ないとは言わずにポジティブに方策を練る）
-  - 飲み会で野菜を取り分ける
+  - プリセールス
 
 ## 発表/特許
 
