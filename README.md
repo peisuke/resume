@@ -83,6 +83,7 @@
 - AWS, GCP
   - [AWS EKSを使ってクラウド上で分散学習](https://qiita.com/peisuke/items/834cfa77717733d3ff45)
 - ネタ
+  - 僕の考えたメタバースの世界: [code](https://github.com/peisuke/Netaverse), [Qiita](https://qiita.com/peisuke/items/e876e7be3ba4b5fa5aa3)
   - リアルタイムバ美肉: [code](https://github.com/peisuke/babiniku), [video](https://www.youtube.com/watch?v=fXWbFtDknCo)
   - ほんやくこんにゃく: [code](https://github.com/peisuke/honyaku-konnyaku), [video](https://www.youtube.com/watch?v=yHVKR_-fjY0)
   - 社員2vec: [code](https://github.com/peisuke/shine2vec), [Qiita](https://qiita.com/peisuke/items/05e2c0fa4c77ab993205)
