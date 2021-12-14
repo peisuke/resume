@@ -2,7 +2,7 @@
 
 - 名前: 藤本敬介
 - e-mail(ほとんど見ない): peisuke.com@gmail.com
-- Twitter（主戦場）: @peisuke
+- Twitter（主戦場）: [@peisuke](https://twitter.com/peisuke)
 - github: https://github.com/peisuke
 - Qiita: https://qiita.com/peisuke
 - Slide: https://www.slideshare.net/FujimotoKeisuke
@@ -17,7 +17,7 @@
   - 画像認識
   - 点群処理
   - ロボット（SLAM, 経路計画）
-  - 音声合成←New!!
+  - 音声合成
   - 機械学習
   - レコメンデーション
 - エンジニアリング
@@ -30,7 +30,7 @@
     - Raspberry Pi, Jetson, Coral Dev Board
     - Theta V
   - 言語
-    - C, C++, C#, Python, Javascript, Java, etc.
+    - C, C++, C#, Python, JavaScript, Java, etc.
 - その他、サブのスキル
   - Project Manager
   - Sales補佐（出来ないとは言わずにポジティブに方策を練る）
@@ -52,11 +52,11 @@
   - 平成26年度関東地方発明表彰
 - 執筆
   - 稼ぐビッグデータ・IoT技術 徹底解説
+  - 深層学習教科書 ディープラーニング G検定(ジェネラリスト)公式テキスト 第2版
 
 ## 作ったもの/記事
 
 - 画像認識、レコメンデーション
-  - 仕事でやっているからか、公開したコードが思ったよりもない・・・
   - [Deep Image Prior (Qiita)](https://qiita.com/peisuke/items/4f37a74eeb16401d2a10)
 - カメラ・ビジョン関連
   - [Structure from Motion Sample](https://github.com/peisuke/NoDeepLearning/blob/master/BundleAdjustmentET.ipynb)
