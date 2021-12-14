@@ -1,5 +1,3 @@
-人生がとっちらかってきたので、メモがてら、とりあえず日本語で・・・
-
 - 名前: 藤本敬介
 - e-mail: peisuke.com@gmail.com
 - Twitter: [@peisuke](https://twitter.com/peisuke)
