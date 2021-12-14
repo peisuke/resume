@@ -5,7 +5,7 @@
 - Twitter（主戦場）: [@peisuke](https://twitter.com/peisuke)
 - github: https://github.com/peisuke
 - Qiita: https://qiita.com/peisuke
-- Slide: https://www.slideshare.net/FujimotoKeisuke
+- Slide: https://www.slideshare.net/FujimotoKeisuke, https://speakerdeck.com/peisuke
 
 ## まとめ
 
