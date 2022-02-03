@@ -26,7 +26,7 @@
   - その他
     - github, docker, CircleCI, firebase
     - Raspberry Pi, Jetson, Coral Dev Board
-    - Theta V, Solidity, Unity
+    - Theta V, Solidity, Unity, ROS
   - 言語
     - C, C++, C#, Python, JavaScript, Java, etc.
 - その他、サブのスキル
@@ -67,6 +67,7 @@
   - [AutoVC](https://github.com/peisuke/AutoVC.pytorch)
   - [SqueezeWave](https://github.com/peisuke/SqeezeWave-VQVAE)
 - 機械学習
+  - [GenPU](https://github.com/peisuke/GenPU)
   - [MOCO](https://github.com/peisuke/MomentumContrast.pytorch)
   - [Advantage-Weighted Regression](https://github.com/peisuke/AdvantageWeightedRegression)
   - [Constrained Spectral Clustering](https://github.com/peisuke/ConstrainedSpectralClustering)
