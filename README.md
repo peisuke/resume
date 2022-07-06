@@ -21,6 +21,7 @@
 - エンジニアリング
   - フロント系
     - Vue.js, CSS, HTML
+    - React Native
   - インフラ系
     - AWS, GCP
   - その他
@@ -80,6 +81,9 @@
   - AI for Kids: [記事](https://torus.abejainc.com/n/nf44ff7c242fc)
 - AWS, GCP
   - [AWS EKSを使ってクラウド上で分散学習](https://qiita.com/peisuke/items/834cfa77717733d3ff45)
+- Web3
+  - [自動マーケットメイカー(Solidity)](https://github.com/peisuke/AutomatedMarketMaker)
+  - [ウォレット付きTap2Earn(React Native)](https://github.com/peisuke/SampleWallet)
 - ネタ
   - 僕の考えたメタバースの世界: [code](https://github.com/peisuke/Netaverse), [Qiita](https://qiita.com/peisuke/items/e876e7be3ba4b5fa5aa3)
   - リアルタイムバ美肉: [code](https://github.com/peisuke/babiniku), [video](https://www.youtube.com/watch?v=fXWbFtDknCo)
